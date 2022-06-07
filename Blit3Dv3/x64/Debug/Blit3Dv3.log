@@ -1,0 +1,37 @@
+﻿  Asteroids.cpp
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Asteroids.cpp(72,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Asteroids.cpp(73,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Asteroids.cpp(87,78): warning C4305: 'argument': truncation from 'double' to 'float'
+  Projectile.cpp
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Projectile.cpp(65,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Projectile.cpp(65,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Ship.cpp
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\Ship.cpp(51,19): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(82,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(88,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(116,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(141,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(163,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(174,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(187,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(322,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\AsteroidsGame\Asteroids_Ship1\Blit3Dv3\main.cpp(323,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Blit3Dv3.vcxproj -> F:\AsteroidsGame\Asteroids_Ship1\x64\Debug\Blit3Dv3.exe
